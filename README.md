@@ -1,5 +1,7 @@
 ### React Calculator App
 
+### Hosted app : https://aman-0402.github.io/calculator/ 
+
 ## Overview
 This is a simple calculator application built using React.js. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division. The app features a clean and intuitive UI, with buttons for digits and operations, along with a display to show the current input and results.
 
